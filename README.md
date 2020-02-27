@@ -1,3 +1,3 @@
 # BiciPalma
 
-## Codigo formado mayoritariamente por David Gelpi 
+## Codigo formado principalmente por David Gelpi 
